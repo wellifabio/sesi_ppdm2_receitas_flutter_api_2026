@@ -112,7 +112,7 @@ abstract class AppTheme {
       ),
     ),
     textButtonTheme: TextButtonThemeData(
-      style: ButtonStyle(foregroundColor: WidgetStatePropertyAll(AppColors.c1)),
+      style: ButtonStyle(foregroundColor: WidgetStatePropertyAll(AppColors.c3)),
     ),
     inputDecorationTheme: InputDecorationThemeData(
       labelStyle: TextStyle(color: AppColors.c4),
