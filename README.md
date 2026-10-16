@@ -25,7 +25,7 @@ flutter run
 ```
 #### Se preferir instale o [.APK](./assets/app-release.apk) em celular Android
 
-<delails>
+<details>
 <summary>
 <h2>Screenshots</h2>
 </summary>
@@ -40,4 +40,4 @@ flutter run
 |![Tela07](./assets/screenshots/ss07.png)|![Tela08](./assets/screenshots/ss08.png)|
 |Alterar|Widget personalizado|
 
-</delails>"# sesi_ppdm2_receitas_flutter_api_2026" 
+</details>
